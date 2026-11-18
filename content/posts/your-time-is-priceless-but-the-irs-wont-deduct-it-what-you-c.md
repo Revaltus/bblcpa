@@ -4,7 +4,7 @@ slug: your-time-is-priceless-but-the-irs-wont-deduct-it-what-you-c
 date: 2026-08-26
 author: "David L. Lattimore"
 excerpt: "Volunteering doesn't earn you a deduction for your time, but the mileage, supplies, and travel costs you pay out of pocket often do. Here's what qualifies and how to document it."
-image: volunteer-loading-supplies-into-car.jpg
+image: bbl-volunteer-1024x576.png
 image_alt: "A volunteer loading donation supplies into a car trunk, representing deductible out-of-pocket volunteer expenses"
 tags: ["tax planning", "charitable giving", "individual tax", "deductions"]
 meta_title: "Tax Deductions for Volunteering: What Qualifies | Brammer, Begnaud, & Lattimore CPAs"

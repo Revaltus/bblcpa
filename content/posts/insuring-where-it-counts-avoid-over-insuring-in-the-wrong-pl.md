@@ -4,7 +4,7 @@ slug: insuring-where-it-counts-avoid-over-insuring-in-the-wrong-pl
 date: 2026-08-25
 author: "David L. Lattimore"
 excerpt: "Stop buying insurance off a checklist. See how a Port Arthur CPA firm frames coverage decisions around net worth, cash flow, and real risk exposure instead."
-image: family-reviewing-financial-documents-home-office.jpg
+image: bbl-insurance-coverage-1024x576.png
 image_alt: "A family reviewing financial and insurance documents together at a home office table"
 tags: ["insurance planning", "risk management", "financial planning", "business insurance"]
 meta_title: "How Much Insurance Coverage Do You Need | Brammer, Begnaud, & Lattimore CPAs"

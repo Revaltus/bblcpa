@@ -4,7 +4,7 @@ slug: long-term-care-how-you-can-financially-prepare-for-the-expen
 date: 2026-08-25
 author: "David L. Lattimore"
 excerpt: "Long-term care can cost six figures over a few years. See how insurance, VA Aid and Attendance benefits, and self-funding fit together before a crisis forces the decision."
-image: senior-couple-reviewing-financial-documents.jpg
+image: bbl-long-term-care-1024x576.png
 image_alt: "Senior couple reviewing financial documents together at a kitchen table while planning for long-term care costs"
 tags: ["retirement planning", "tax planning", "elder care", "estate planning"]
 meta_title: "Long-Term Care Planning Costs: A CPA's Funding Guide | Brammer, Begnaud, & Lattimore CPAs"

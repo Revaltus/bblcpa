@@ -4,7 +4,7 @@ slug: do-the-math-behind-renting-vs-buying-a-home
 date: 2026-08-25
 author: "David L. Lattimore"
 excerpt: "Skip the market-timing debate. See how to compare renting and buying a home as a financial statement decision using real numbers, not gut feeling."
-image: couple-reviewing-home-finances.jpg
+image: bbl-buying-vs-renting-a-home.png
 image_alt: "Couple sitting at a kitchen table reviewing calculator and paperwork while deciding whether to rent or buy a home"
 tags: ["home buying", "financial planning", "tax planning", "real estate"]
 meta_title: "Buy vs Rent a Home: The Real Financial Math | Brammer, Begnaud & Lattimore CPAs – Port Arthur, TX"

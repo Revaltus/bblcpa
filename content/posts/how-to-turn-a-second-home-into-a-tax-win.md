@@ -4,7 +4,7 @@ slug: how-to-turn-a-second-home-into-a-tax-win
 date: 2026-08-25
 author: "David L. Lattimore"
 excerpt: "Owning a second home isn't just a lifestyle call, it's a tax decision. See how the IRS 14-day rule and personal-use ratio decide whether your property is a tax shelter or a rental business."
-image: vacation-home-porch-view.jpg
+image: bbl-second-home.png
 image_alt: "A lakeside second home with a porch, representing tax decisions around personal versus rental use"
 tags: ["tax planning", "second home", "rental property", "real estate tax"]
 meta_title: "Second Home Tax Rules: The IRS 14-Day Rule Explained | Brammer, Begnaud, & Lattimore CPAs"

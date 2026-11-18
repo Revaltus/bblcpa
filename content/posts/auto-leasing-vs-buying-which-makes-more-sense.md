@@ -4,7 +4,7 @@ slug: auto-leasing-vs-buying-which-makes-more-sense
 date: 2026-08-24
 author: "David L. Lattimore"
 excerpt: "Monthly payment isn't the number that should decide your next vehicle. See how a CPA weighs Section 179, cash flow, and driving habits to find the real answer between leasing and buying."
-image: business-owner-reviewing-car-keys-paperwork.jpg
+image: bbl-auto-buying-vs-leasing--1024x576.png
 image_alt: "Small business owner comparing lease and purchase paperwork for a vehicle at a desk"
 tags: ["Tax Planning", "Small Business", "Vehicle Deductions"]
 meta_title: "Lease vs Buy a Car: CPA Guide to Taxes & Cash Flow"

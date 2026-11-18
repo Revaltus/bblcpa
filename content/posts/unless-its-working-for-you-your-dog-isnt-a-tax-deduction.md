@@ -4,7 +4,7 @@ slug: unless-its-working-for-you-your-dog-isnt-a-tax-deduction
 date: 2026-08-25
 author: "David L. Lattimore"
 excerpt: "Most pet expenses aren't deductible, but guide dogs, guard dogs, and legitimate breeding operations have real IRS-backed write-offs. Here's how to tell which side of the line you're on."
-image: guard-dog-outside-small-business.jpg
+image: bbl-dog-as-tax-deduction.png
 image_alt: "A guard dog standing watch outside a small business storage yard in Southeast Texas"
 tags: ["tax deductions", "small business tax", "IRS rules", "pet expenses"]
 meta_title: "Dog Care Tax Deduction: What the IRS Actually Allows"

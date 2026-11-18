@@ -4,7 +4,7 @@ slug: why-tax-advantaged-planning-is-the-real-defense-against-medi
 date: 2026-08-26
 author: "David L. Lattimore"
 excerpt: "An emergency fund helps you survive a medical bill, but HSAs, FSAs, and the medical expense deduction are what actually reduce what you owe. Here's how to plan for unexpected medical expenses before the crisis hits."
-image: hsa-medical-savings-planning.jpg
+image: bbl-tax-advantaged-planning-defense-against-medical-bills-1024x576.png
 image_alt: "Person reviewing medical bills and financial paperwork at a kitchen table"
 tags: ["tax planning", "HSA", "medical expenses", "financial planning"]
 meta_title: "How to Plan for Unexpected Medical Expenses | Brammer, Begnaud, & Lattimore CPAs"

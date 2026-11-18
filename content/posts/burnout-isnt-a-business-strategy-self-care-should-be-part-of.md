@@ -4,7 +4,7 @@ slug: burnout-isnt-a-business-strategy-self-care-should-be-part-of
 date: 2026-08-26
 author: "David L. Lattimore"
 excerpt: "Exhaustion isn't a personal problem that happens to spill into your business, it's a financial risk. Here's why self-care for business owners protects judgment, margin, and long-term growth."
-image: tired-business-owner-desk-late-night.jpg
+image: bbl-self-care-1024x576.png
 image_alt: "Small business owner rubbing eyes while working late at a desk covered in paperwork"
 tags: ["business owner wellness", "burnout prevention", "business management", "sustainable growth"]
 meta_title: "Self-Care for Business Owners: A CPA's Case Against Burnout | Brammer, Begnaud, & Lattimore CPAs"

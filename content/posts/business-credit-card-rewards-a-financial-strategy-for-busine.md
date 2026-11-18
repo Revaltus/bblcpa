@@ -4,7 +4,7 @@ slug: business-credit-card-rewards-a-financial-strategy-for-busine
 date: 2026-08-25
 author: "David L. Lattimore"
 excerpt: "Business credit card rewards can be more than a perk. See how to match card structure to your actual spending, keep points out of tax trouble, and turn rewards into a real cash-flow tool."
-image: business-owner-reviewing-credit-card-statement.jpg
+image: bbl-credit-card-rewards--1024x576.png
 image_alt: "Small business owner reviewing a business credit card statement and receipts at a desk"
 tags: ["tax planning", "small business", "bookkeeping", "cash flow"]
 meta_title: "Business Credit Card Rewards Strategy | Port Arthur CPA"

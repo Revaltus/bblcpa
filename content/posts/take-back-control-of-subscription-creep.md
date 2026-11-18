@@ -4,7 +4,7 @@ slug: take-back-control-of-subscription-creep
 date: 2026-08-25
 author: "David L. Lattimore"
 excerpt: "Subscription creep quietly drains hundreds or thousands of dollars a year from households and small businesses. Here's how to audit recurring charges and build lasting budget discipline."
-image: reviewing-monthly-bills-laptop.jpg
+image: bbl-subscription-creep.png
 image_alt: "Person reviewing monthly subscription charges and bills on a laptop at a kitchen table"
 tags: ["budgeting", "expense management", "small business finance", "cash flow"]
 meta_title: "Subscription Creep: How to Audit Recurring Costs | Brammer, Begnaud, & Lattimore CPAs"

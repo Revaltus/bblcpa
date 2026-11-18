@@ -4,7 +4,7 @@ slug: strategically-balancing-your-investment-portfolio-why-set-it
 date: 2026-08-24
 author: "David L. Lattimore"
 excerpt: "A balanced investment portfolio isn't a decision you make once. Learn why unmanaged drift, tax-inefficient rebalancing, and stale risk tolerance quietly erode returns."
-image: reviewing-investment-portfolio-charts.jpg
+image: bbl-balanced-investments.png
 image_alt: "Client and advisor reviewing investment portfolio allocation charts at a desk"
 tags: ["investing", "portfolio management", "tax planning", "wealth management"]
 meta_title: "Balanced Investment Portfolio: Stop the Costly Drift"
