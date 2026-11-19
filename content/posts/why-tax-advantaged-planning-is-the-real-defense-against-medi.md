@@ -15,6 +15,9 @@ canonical_url: https://www.bblcpa.com/resources/why-tax-advantaged-planning-is-t
 schema_markup: "FAQPage"
 answer_block: "The best way to plan for unexpected medical expenses is to combine a cash emergency fund with tax-advantaged tools: fund an HSA up to your plan's out-of-pocket maximum for its triple tax advantage, use an FSA for predictable near-term costs, and track unreimbursed medical expenses year-round so you can claim the itemized deduction once they exceed 7.5% of your adjusted gross income."
 ---
+
+*By Brammer, Begnaud & Lattimore, CPAs — Accounting, tax and advisory firm in Port Arthur, serving clients in Jefferson County and throughout Southeast Texas.*
+
 A cracked ankle on a Saturday, a surprise diagnosis at 52, a grandchild's emergency room visit in Beaumont, none of it waits for a convenient month in the budget. Medical costs remain one of the most common reasons Southeast Texas families end up carrying debt they never planned for, and the usual advice, build a three-to-six-month emergency fund, only solves half the problem. Cash reserves help you survive the first bill. They do nothing to lower what you actually owe or reduce your tax bill in the year the crisis hits. That gap is exactly where tax-advantaged planning does its real work.
 
 ## Why a savings cushion alone falls short
