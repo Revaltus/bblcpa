@@ -5,7 +5,7 @@ date: 2026-11-19
 content_type: blog
 author: "David L. Lattimore"
 excerpt: "Turnaround overtime does not become tax free. Only the premium portion qualifies, so clean payroll records decide how much Port Arthur workers can claim."
-image: refinery-workers-overtime-port-arthur.jpg
+image: bbl-overtime-pay.png
 image_alt: "Industrial workers in hard hats at a refinery site during a busy turnaround"
 tags: ["payroll", "overtime deduction", "tax planning", "Port Arthur"]
 meta_title: "Overtime Tax Deduction 2026 for Port Arthur Workers"
@@ -72,8 +72,6 @@ Tips remain subject to Social Security and Medicare tax, and they must still be 
 ## Payroll records that make claiming easier
 
 For 2025, the IRS gave employers transition relief, so the new deductions did not require a brand-new W-2 reporting format right away. The IRS has signaled that more detailed reporting is coming, so employers should assume that separate tracking will matter going forward. Check the final W-2 instructions each year rather than assuming last year's setup still works.
-
-![A payroll manager reviewing employee timesheets and overtime hours at a desk](/content-assets/payroll-manager-reviewing-timesheets.jpg)
 
 Meanwhile, employees still need numbers to put on a return. Here is what a clean payroll file looks like.
 
