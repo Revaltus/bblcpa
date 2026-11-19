@@ -1,20 +1,20 @@
 ---
 title: "2026 Federal tax changes: What to know before you file"
-slug: a-bigger-refund-is-just-a-bigger-loan-to-uncle-sam-a-withhol
+slug: 2026-federal-tax-changes-what-to-know-before-you-file
 date: 2026-11-19
 content_type: blog
 author: "David L. Lattimore"
-excerpt: "A fat refund feels like a win, but it is your own money coming back after a year-long interest-free loan. Here is a three-step withholding checkup for the new tax law."
+excerpt: "From a higher standard deduction to new charitable rules and a permanent QBI deduction, here are the 2026 federal tax changes worth knowing before you file, and why year-end planning matters."
 image: bbl-2026-tax-changes.png
 image_alt: "A couple reviewing tax paperwork and a laptop at their kitchen table to check their withholding"
-tags: ["Tax withholding", "Tax planning", "Individual tax", "New tax law"]
-meta_title: "Adjust Tax Withholding After New Tax Law: 3-Step Check"
-meta_description: "Learn how to adjust tax withholding after the new tax law. A Port Arthur CPA firm shares a 3-step checkup for your W-4, W-4R, and estimated payments."
-target_keyword: "adjust tax withholding after new tax law"
-secondary_keywords: ["will my tax refund be bigger 2026", "how to check my W-4 withholding", "IRS tax withholding estimator", "why is my tax refund different this year"]
-canonical_url: https://www.bblcpa.com/resources/a-bigger-refund-is-just-a-bigger-loan-to-uncle-sam-a-withhol
+tags: ["2026 tax changes", "Tax planning", "Individual tax", "New tax law"]
+meta_title: "2026 Federal Tax Changes: What to Know Before You File"
+meta_description: "A Port Arthur CPA firm explains the 2026 federal tax changes, from the standard deduction to SALT, charitable rules, and QBI. Plan before year-end."
+target_keyword: "2026 federal tax changes"
+secondary_keywords: ["2026 standard deduction", "2026 tax brackets", "SALT deduction cap 2026", "qualified business income deduction 2026", "2026 child tax credit", "year-end tax planning"]
+canonical_url: https://www.bblcpa.com/resources/2026-federal-tax-changes-what-to-know-before-you-file
 schema_markup: "BlogPosting"
-answer_block: "To adjust your tax withholding after the new tax law, compare last year's total tax to your current paychecks, run your numbers through the IRS Tax Withholding Estimator, and then update your Form W-4, Form W-4R, or quarterly estimates. The goal is a refund or balance due close to zero, not a big refund, since a refund is your own money returned after an interest-free loan to the IRS."
+answer_block: "The biggest 2026 federal tax changes include a higher standard deduction ($32,200 for joint filers and $16,100 for single filers), inflation-adjusted brackets, a $40,400 SALT cap, new charitable deduction rules, a permanent QBI deduction, a $2,200 child tax credit, and a $15 million estate tax exclusion. Reviewing them before year-end gives you time to plan."
 ---
 The tax code changes like shifting sands, constantly redefining the landscape. And the rules impacting the 2026 tax year are no exception. A combination of changes may affect individuals, families, and business owners. While some are a matter of annual routine, others are driven by permanent provisions of the One, Big, Beautiful Bill (OBBB). Several provisions first became effective for the 2025 tax year, and they remain important for 2026.
 
