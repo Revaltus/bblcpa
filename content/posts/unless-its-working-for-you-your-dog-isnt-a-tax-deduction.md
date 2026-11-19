@@ -15,6 +15,9 @@ canonical_url: https://www.bblcpa.com/resources/unless-its-working-for-you-your-
 schema_markup: "FAQPage"
 answer_block: "A dog's expenses are only deductible if the dog serves a medical purpose, like a trained guide or service animal for a diagnosed disability, or a documented business purpose, like guarding inventory or working in a for-profit breeding or farm operation. A family pet, even one that lives at your home office, doesn't qualify on its own."
 ---
+
+*By Brammer, Begnaud & Lattimore, CPAs — Accounting, tax and advisory firm in Port Arthur, serving clients in Jefferson County and throughout Southeast Texas.*
+
 Every January, somebody asks us whether Fido counts as a dependent. He doesn't. But the question isn't as silly as it sounds, because a handful of very real, very specific situations do let dog-related costs land on a tax return. The trick is knowing which side of the line you're on before you claim it.
 
 Most pet expenses are personal expenses, full stop. Food, grooming, vet visits, that ridiculous orthopedic bed from Chewy: none of it is deductible just because you love the dog or even because the dog makes your life better. The IRS doesn't care how good a boy he is. What it cares about is whether the expense is tied to a medical condition or to the operation of a trade or business. That's the whole test, and it's worth understanding before you start saving receipts.
