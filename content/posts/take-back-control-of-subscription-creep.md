@@ -15,6 +15,9 @@ canonical_url: https://www.bblcpa.com/resources/take-back-control-of-subscriptio
 schema_markup: "FAQPage"
 answer_block: "Subscription creep is the gradual buildup of small, automated recurring charges that go unreviewed and quietly inflate a household or business budget. Fixing it takes a scheduled quarterly audit that sorts every subscription by actual use, followed by canceling, downgrading, or consolidating duplicates. Real-time financial visibility, rather than a once-a-year statement review, is what keeps the savings from creeping back."
 ---
+
+*By Brammer, Begnaud & Lattimore, CPAs — Accounting, tax and advisory firm in Port Arthur, serving clients in Jefferson County and throughout Southeast Texas.*
+
 Fifteen dollars for streaming. Twelve for a meal kit you tried once. Forty for a software seat nobody on your team remembers signing up for. None of it feels like much in the moment, which is exactly the problem. Subscription creep doesn't show up as one bad decision. It shows up as fifty small ones, compounding quietly on a credit card statement until the total finally gets your attention. Treat it like any other line item in your budget: something you review, question, and adjust on purpose, not something you notice by accident.
 
 ## The real cost of subscription creep
