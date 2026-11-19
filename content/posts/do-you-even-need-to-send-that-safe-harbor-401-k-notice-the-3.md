@@ -5,7 +5,7 @@ date: 2026-11-19
 content_type: article
 author: "David L. Lattimore"
 excerpt: "The December 1 notice scramble applies to matching safe harbor plans, but a 3% nonelective design removes the annual notice entirely. Here is how the timing and cost compare before you choose."
-image: business-owner-reviewing-401k-plan-documents.jpg
+image: bbl-safe-harbor.png
 image_alt: "A small business owner at a desk reviewing 401(k) plan documents and a calculator"
 tags: ["401(k)", "retirement plans", "small business tax", "plan design"]
 meta_title: "Safe Harbor 401(k) Notice Requirement: Do You Need It?"
@@ -122,8 +122,6 @@ Dropping the notice does not make a nonelective plan hands-off. A few conditions
 ## How to choose your design before the calendar chooses for you
 
 The owners who get squeezed in late November are the ones who have not compared the options. The ones who sleep fine in December usually did four things in the summer.
-
-![An accountant and a clinic owner comparing retirement plan costs across a conference table](/content-assets/accountant-meeting-with-clinic-owner.jpg)
 
 1. **Pull the participation numbers.** Which employees defer now, at what rates, and how has that changed over three years? A practice where 70% of staff defer will see a match cost more than 3%.
 2. **Price both designs on actual payroll.** Use the same method as the table above: run the match cost under low, expected, and high participation, then compare it to 3% of total eligible pay.
