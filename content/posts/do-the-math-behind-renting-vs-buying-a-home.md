@@ -15,6 +15,9 @@ canonical_url: https://www.bblcpa.com/resources/do-the-math-behind-renting-vs-bu
 schema_markup: "FAQPage"
 answer_block: "Whether buying or renting makes more financial sense depends on your full monthly ownership costs, how long you plan to stay, and what your down payment could earn if invested instead. Most buyers need five to seven years to recover closing costs, so short timelines usually favor renting, while longer ones tend to favor buying once opportunity cost is factored in."
 ---
+
+*By Brammer, Begnaud & Lattimore, CPAs — Accounting, tax and advisory firm in Port Arthur, serving clients in Jefferson County and throughout Southeast Texas.*
+
 Ask ten people whether you should buy a house or keep renting in Port Arthur, and you'll get ten opinions built on gut feeling: market timing, a parent's advice, or someone's line about renting being "throwing money away." None of that holds up next to a calculator. The real question is a financial statement question: what does each option do to your monthly cash flow, your net worth five years out, and the money you'd otherwise put to work somewhere else. Answer that, and most of the emotional noise falls away.
 
 ## Treat this like a balance sheet decision, not a market bet
