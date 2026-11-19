@@ -114,4 +114,4 @@ Yes. Form 1099-NEC for contractors is also due January 31. Collecting a W-9 from
 
 ## Make December the easy month
 
-The early-December cutoff is not a hurdle your payroll company invented to test your patience. It is a built-in checkpoint that keeps a small December oversight from becoming a February correction. If you would like a payroll process where changes are tracked, totals tie out, and year-end arrives without drama, [contact our Port Arthur team](/contact). We will walk through your pay schedule, your year-end checklist and what a fixed monthly fee would cover.
+The early-December cutoff is not a hurdle your payroll company invented to test your patience. It is a built-in checkpoint that keeps a small December oversight from becoming a February correction. If you would like a payroll process where changes are tracked, totals tie out, and year-end arrives without drama, [contact ](/contact)BBL. We will walk through your pay schedule, your year-end checklist and what a fixed monthly fee would cover.
