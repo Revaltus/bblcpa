@@ -5,7 +5,7 @@ date: 2026-11-19
 content_type: blog
 author: "David L. Lattimore"
 excerpt: "That early-December cutoff feels like a hassle, but it is the cheapest protection you have against W-2 corrections. Here is why it exists and how to use it."
-image: business-owner-reviewing-year-end-payroll.jpg
+image: bbl-payroll-deadline.png
 image_alt: "Small business owner reviewing year-end payroll reports at a desk with a laptop"
 tags: ["Payroll", "Year-End", "W-2", "Small Business"]
 meta_title: "Year-End Payroll Deadline: Why the Early Cutoff Helps"
@@ -80,8 +80,6 @@ One Texas bonus: the state has no personal income tax, so there are no state wit
 ## How a calm December works with a fixed monthly fee
 
 The real fix for a December scramble is not working faster in December. It is making December boring.
-
-![Desk calendar and notebook open to December on an office desk](/content-assets/december-desk-calendar-planning.jpg)
 
 With our [payroll service](/services/outsourced-accounting/payroll), changes go through a secure online platform where you can submit them and see them tracked in real time. A new hire, a raise or a bonus does not live in someone's memory or an email thread. It is logged, dated and visible to you and to us. When the cutoff arrives, there is little left to chase.
 
