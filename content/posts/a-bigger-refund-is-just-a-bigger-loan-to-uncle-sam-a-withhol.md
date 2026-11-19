@@ -16,95 +16,138 @@ canonical_url: https://www.bblcpa.com/resources/a-bigger-refund-is-just-a-bigger
 schema_markup: "BlogPosting"
 answer_block: "To adjust your tax withholding after the new tax law, compare last year's total tax to your current paychecks, run your numbers through the IRS Tax Withholding Estimator, and then update your Form W-4, Form W-4R, or quarterly estimates. The goal is a refund or balance due close to zero, not a big refund, since a refund is your own money returned after an interest-free loan to the IRS."
 ---
-Every February, somebody at the coffee counter announces their refund like they just hit the lottery. Nobody announces the other half of the story: they handed the IRS that money, interest-free, a little out of every paycheck for twelve months. A refund feels like a bonus. It is actually a loan you made without being asked, and the repayment shows up once a year with no interest.
+The tax code changes like shifting sands, constantly redefining the landscape. And the rules impacting the 2026 tax year are no exception. A combination of changes may affect individuals, families, and business owners. While some are a matter of annual routine, others are driven by permanent provisions of the One, Big, Beautiful Bill (OBBB). Several provisions first became effective for the 2025 tax year, and they remain important for 2026.
 
-This year the question is louder than usual. The 2025 tax law changes (the One Big Beautiful Bill Act, signed in July 2025) added new deductions and raised old ones, and a lot of people want to know whether their refund will be bigger. Some will. But the better question is whether your withholding matches your real tax bill. Here is a simple three-step checkup to find out.
+The IRS has announced inflation adjustments for more than 60 tax provisions for tax year 2026. These amounts generally apply to the federal income tax returns taxpayers will file in 2027. In addition, taxpayers should be aware of changes involving charitable deductions, the qualified business income deduction, energy tax credits, and several other areas.
 
-## A refund is your own money coming home late
+Here are some of the 2026 federal tax changes worth knowing about.
 
-Take a $3,120 refund. Divide it by 26 biweekly paychecks and you get $120 per check that went to the IRS instead of your household. If that money had stayed in your account, it could have paid down a credit card, padded an emergency fund, or covered a quarterly insurance premium without a scramble.
+## 1. The standard deduction is higher
 
-The math is even sharper if you carry a balance. Over-withholding evenly across the year means the government holds an average of about $1,560 of your money. If you also carry a card balance at 22 percent APR, that idle cash costs you roughly $340 a year in interest you could have avoided. If you instead park the money in savings at 4 percent, you would have earned about $62. Either way, the IRS got the better end of the deal.
+As happens most years, the standard deduction has increased to account for inflation.
 
-The flip side matters too. Under-withhold and you owe in April, and you may owe an underpayment penalty on top. The goal is not a big refund or a big bill. The goal is a number close to zero, with a small cushion if that helps you sleep.
+For tax year 2026, the standard deduction is:
 
-## Why this filing season's refunds look different
+- $32,200 for married couples filing jointly
+- $16,100 for single taxpayers and married taxpayers filing separately
+- $24,150 for heads of household
 
-If your refund looks different this year, there is usually a mechanical reason. The new law changed what you can deduct on your 2025 return, but employers withheld most of 2025 paychecks using rules written before the law passed. Your payroll system could not know about deductions that did not exist yet, so it kept withholding at the old rate.
+That is an increase from the 2025 amounts of $31,500 for joint filers, $15,750 for single and married-filing-separately taxpayers, and $23,625 for heads of household.
 
-That gap can push refunds up. Here are the changes most likely to move your numbers:
+Because most taxpayers claim the standard deduction rather than itemizing, these increases will affect a large number of 2026 returns.
 
-- **Standard deduction.** For 2025 it is $15,750 for single filers and $31,500 for married couples filing jointly. For 2026 it rises to $16,100 and $32,200.
-- **Child tax credit.** It is now $2,200 per qualifying child.
-- **SALT cap.** The state and local tax deduction cap rose from $10,000 to $40,000 for 2025, with a phase-down for higher earners.
-- **Tips and overtime.** Qualifying tip income can be deducted up to $25,000. The overtime premium (the "half" in time-and-a-half) can be deducted up to $12,500, or $25,000 on a joint return.
-- **Seniors.** Filers 65 and older can claim an added $6,000 deduction each, subject to income limits that begin phasing out at $75,000 (single) and $150,000 (joint).
+However, a higher standard deduction doesn't automatically mean itemizing is off the table. Changes to the state and local tax deduction and charitable contribution rules could make it worthwhile for some taxpayers to compare the two methods when preparing their returns.
 
-The tips, overtime, and senior deductions run through 2028, so this is a multi-year planning issue, not a one-season blip. If you work overtime in the Port Arthur industrial corridor, our post on [how the overtime deduction works for workers and payroll](/resources/overtime-pay-in-the-industrial-corridor-what-the-new-overtim) covers which part of your pay actually qualifies.
+## 2. Federal income tax brackets inflation adjustments
 
-One caution: a bigger refund this year does not mean your withholding is right. It may only mean the old withholding was wrong in a new way.
+Inflation adjustments to the brackets are intended to help prevent taxpayers from being pushed into higher tax brackets simply because their income increased with inflation. The seven individual federal income tax rates remain 10%, 12%, 22%, 24%, 32%, 35%, and 37%, but the income ranges to which those rates apply have been adjusted for inflation.
 
-## Step one: compare last year's return to your paychecks
+For example, for 2026 the top 37% rate begins at taxable income above $640,600 for single taxpayers and $768,700 for married couples filing jointly.
 
-Start with your most recent return and one recent pay stub. Pull out three numbers: your total tax, your total payments (withholding plus any estimates), and your refund or balance due.
+An important point about tax brackets is that moving into a higher bracket does not mean all of your income is suddenly taxed at that higher rate. Federal income taxes use a marginal rate system, so only the portion of taxable income falling within each bracket is taxed at that bracket's rate.
 
-Then do a quick pace check. Multiply your year-to-date federal withholding by the number of pay periods left, add it up, and compare the projected total to last year's total tax. If you are a salaried physician or a plant supervisor, this takes ten minutes.
+## 3. The state and local tax deduction remains significantly higher
 
-Watch for the common triggers that make last year a poor guide:
+One of the more notable recent changes for taxpayers who itemize deductions involves the federal deduction for state and local taxes, commonly known as the SALT deduction. The SALT deduction can include qualifying state and local income taxes, or state and local sales taxes, as well as certain real and personal property taxes. This change can be especially significant for homeowners and taxpayers in areas with higher property or state income taxes.
 
-- A raise, a bonus, or a second job
-- A marriage, divorce, or new baby
-- A spouse who started or stopped working
-- Side income, rental income, or a new business
-- A new retirement distribution schedule
+The previous $10,000 cap was increased beginning with the 2025 tax year. For tax year 2026, the general SALT deduction cap is $40,400 for single filers and married couples filing jointly, and $20,200 for married taxpayers filing separately.
 
-If none of those happened and your refund or balance due was under about $500, your withholding was close. Move on to the new-law question. If your refund was $2,000 or more, you have found money to redirect.
+The higher cap begins to phase down when modified adjusted gross income exceeds $505,000, or $252,500 for married taxpayers filing separately, and it generally cannot fall below the prior-law cap of $10,000, or $5,000 for married taxpayers filing separately.
 
-## Step two: run the numbers on the new rules
+Taxpayers must itemize deductions to benefit from the SALT deduction. For some households, the larger potential SALT deduction may change the calculation of whether itemizing deductions produces a better result than claiming the standard deduction.
 
-This is where most people stall, because the rules above interact. A married couple with two kids, one earning overtime, one on a salary, gets a different answer than a retired couple living on IRA distributions and Social Security.
+## 4. Charitable giving rules change in 2026
 
-The free [IRS Tax Withholding Estimator](https://www.irs.gov/individuals/tax-withholding-estimator) is a good place to begin. Have your last return, your latest pay stubs, and any 1099 or retirement income figures in front of you. It will tell you what to change on your Form W-4 and will ask about the newer deductions.
+Charitable contributions are one area where 2026 brings changes for both taxpayers who take the standard deduction and those who itemize.
 
-The estimator is only as good as your inputs. It does not know that you plan to buy a rental property, that your practice has a lumpy fourth quarter, or that you are about to start taking required minimum distributions. That is where a CPA earns the coffee. Our [personal tax prep and planning](/services/personal-income-tax) clients get this projection as part of year-round support, which means the number changes when your life does, not once a year in March.
+Beginning in 2026, taxpayers who do not itemize deductions may be able to deduct qualifying cash contributions to eligible charitable organizations. That creates a potential federal income tax benefit for charitable giving even when a taxpayer claims the standard deduction.
 
-## Step three: adjust your W-4, W-4R, or estimated payments
+Beginning in 2026, taxpayers who claim the standard deduction may generally deduct up to $1,000 of qualifying cash contributions to eligible charitable organizations, or up to $2,000 for married couples filing jointly. This special deduction does not apply to every type of donation or every charitable recipient.
 
-Once you have a target, the fix depends on how you get paid. The mechanics are simple once you know which form controls your withholding.
+At the same time, a new limitation applies to taxpayers who itemize. Beginning in 2026, charitable contributions are generally deductible only to the extent they exceed 0.5% of adjusted gross income, subject to the other rules and limitations governing charitable deductions.
 
-| If you are... | What to adjust | Where |
-|---|---|---|
-| Salaried or hourly | Extra withholding, credits, deductions | Form W-4 given to your employer |
-| Retired, taking IRA or pension distributions | Withholding percentage on each payment | Form W-4R to the plan custodian |
-| Collecting Social Security | Withholding at 7, 10, 12, or 22 percent | Form W-4V |
-| Self-employed or owning a practice | Quarterly estimates | Form 1040-ES payments |
+For taxpayers who regularly make significant charitable gifts, these changes make year-end planning particularly important. The timing and form of a charitable contribution (cash, appreciated securities, or another method) can produce different tax consequences.
 
-For employees, the [IRS Form W-4 page](https://www.irs.gov/forms-pubs/about-form-w-4) explains each step. The ones people use most are Step 3 (credits), Step 4(b) (deductions beyond the standard), and Step 4(c) (a flat extra dollar amount per paycheck). If you are over-withheld by $2,400 with 24 paychecks left, a $100 reduction per check is the math. Under-withheld by the same amount? Put $100 in Step 4(c).
+As always, taxpayers should retain appropriate documentation for charitable contributions and confirm that the recipient is an eligible organization.
 
-For business owners, the target is the safe harbor. You generally avoid the underpayment penalty if you pay at least 90 percent of this year's tax or 100 percent of last year's tax (110 percent if your adjusted gross income was over $150,000). Estimates are due April 15, June 15, September 15, and January 15. A dentist who buys equipment in October, or a real estate agent who closes three big deals in June, can change the right quarterly amount quickly. That is why we revisit it mid-year instead of copying last year's numbers forward.
+## 5. Individual deductions continuing in 2026
 
-Retirees have an edge here, because withholding from a distribution counts as if it were paid evenly through the year, even if you take the distribution in December. Our page on [tax planning for retirees](/industries/retirees) covers how that can fix a shortfall late in the year.
+Several high-profile deductions enacted in 2025 continue to apply for tax year 2026:
 
-## Texas helps, but only if the federal piece is right
+- **Tips and overtime:** Eligible workers who receive qualified tips may be able to deduct up to $25,000 of qualifying tip income. Eligible workers receiving qualified overtime compensation may deduct up to $12,500, or up to $25,000 for married couples filing jointly.
+- **Vehicle loans:** Certain taxpayers may be able to deduct up to $10,000 of qualifying interest paid on a loan used to purchase an eligible new vehicle for personal use. The vehicle must meet specific requirements, including final-assembly requirements, and the deduction is subject to income-based phaseouts and other rules.
+- **Taxpayers age 65 and older:** Senior taxpayers may also qualify for a temporary additional deduction of up to $6,000 per eligible individual, subject to filing-status, income, and other requirements.
 
-Texas has no personal income tax, which is a real advantage for anyone filing from Port Arthur, Beaumont, or Orange. The [Texas Comptroller](https://comptroller.texas.gov/taxes/) lists the taxes the state does collect, such as sales and franchise taxes, but none of them land on a paycheck.
+Despite shorthand descriptions such as "no tax on tips" or "no tax on overtime," these provisions don't necessarily make all tips, overtime pay, or vehicle interest tax-free. Each deduction has eligibility requirements, income phaseouts, and other limitations. Those are important factors when estimating the tax benefit.
 
-That means your federal return is the whole income-tax story. There is no state refund to offset a federal surprise and no state balance due to muddy the picture. A well-tuned federal withholding number is the entire game, which makes the checkup faster and the payoff cleaner.
+## 6. The qualified business income deduction is here to stay
 
-## Common Questions
+Business owners also received an important measure of certainty. The qualified business income deduction, often called the QBI deduction or Section 199A deduction, was made permanent under legislation enacted in 2025. Without legislative action, the deduction had been scheduled to expire after 2025.
 
-**Will my tax refund be bigger in 2026?**
+The QBI deduction can allow eligible owners of sole proprietorships, partnerships, S corporations, and certain other pass-through businesses to deduct a portion of qualified business income, subject to various rules and limitations.
 
-For many filers, yes, because the new deductions apply to 2025 income while most 2025 withholding was calculated under the old rules. Your result still depends on your income, filing status, and which deductions you qualify for. A bigger refund means over-withholding, so use it as a prompt to adjust your W-4.
+Beginning in 2026, the phase-in ranges for certain QBI limitations expand. In addition, taxpayers who materially participate in one or more qualified trades or businesses and have at least $1,000 of qualified business income may qualify for a minimum QBI deduction of $400, subject to applicable rules.
 
-**Why is my tax refund different this year?**
+For business owners, this is more than a tax-return preparation issue. QBI planning can interact with taxable income, retirement contributions, wages, business structure, and other year-end decisions. That makes it an appropriate topic to discuss with your tax advisor before the year closes rather than after the return is already being prepared.
 
-Usually one of three things changed: the tax law (standard deduction, child credit, new deductions), your income (raise, overtime, side work), or your withholding (new job, new W-4). Compare this year's total tax to last year's total tax on the return. The gap tells you which of the three drove the change.
+## 7. The child tax credit remains at its higher level
 
-**How do I check my W-4 withholding?**
+Families should also be aware of changes to the Child Tax Credit.
 
-Gather your latest pay stub and last year's return, then enter them into the IRS Tax Withholding Estimator. It will recommend changes to your Form W-4. Recheck after any life event, such as marriage, a new baby, a second job, or retirement. Even without a change, a once-a-year check keeps surprises small.
+The maximum Child Tax Credit is $2,200 per qualifying child for 2026, subject to eligibility requirements and income limitations. The credit begins to phase out for taxpayers above specified income levels.
 
-## Get a withholding number you can trust
+Recent legislation also made the higher Child Tax Credit structure permanent rather than allowing it to revert to the lower rules that otherwise would have taken effect.
 
-A refund should be a rounding error, not a savings plan. If you want a second set of eyes on your W-4, your estimated payments, or your retirement withholding, we will run the projection with you and set a target that fits your cash flow. As a fixed monthly fee client, you get year-round tax support with no billing surprises, so a mid-year checkup is just part of the service. [Contact us](/contact) and we will help you stop lending money to Uncle Sam.
+Taxpayers should pay particular attention to identification requirements. To qualify, the child must have a Social Security number valid for employment. The taxpayer claiming the credit must also meet applicable taxpayer-identification requirements; for a married couple filing jointly, at least one spouse generally must have a Social Security number valid for employment. The credit generally begins to phase out when modified AGI exceeds $200,000, or $400,000 for married couples filing jointly.
+
+Families whose circumstances were impacted during the year through such events as birth, adoption, marriage, divorce, or a change in custody should make sure those changes are considered in their year-end tax planning.
+
+## 8. Some residential energy tax credits are no longer available
+
+Homeowners planning energy improvements should be aware of an important change.
+
+The Energy Efficient Home Improvement Credit is not available for qualifying property placed in service after December 31, 2025. The Residential Clean Energy Credit is not available for qualifying expenditures made after December 31, 2025. Because the applicable trigger differs by credit, homeowners should confirm the relevant rules before relying on a federal tax benefit.
+
+Those credits previously provided tax incentives for a variety of home improvements and clean-energy investments.
+
+The Alternative Fuel Vehicle Refueling Property Credit generally is not available for property placed in service after June 30, 2026. For eligible personal-use property at a principal residence, the credit may equal 30% of the cost, up to $1,000 per charging port or other qualifying item; location and other requirements apply.
+
+The takeaway is simple: taxpayers should not assume that a federal tax incentive available for a home or energy-related purchase in a previous year remains available in 2026. Before making a significant purchase based partly on an expected tax credit, verify the current rules.
+
+## 9. Estate and gift tax amounts have increased
+
+The federal estate and gift tax rules affect a relatively small percentage of taxpayers, but the amounts involved can make planning important for families with substantial estates.
+
+For individuals who die in 2026, the federal basic estate tax exclusion amount increases to $15 million. This is particularly noteworthy because the higher exemption levels that had been scheduled to expire were instead extended under the 2025 legislation.
+
+Even families well below the federal estate tax threshold may still benefit from estate planning. State estate or inheritance taxes, beneficiary designations, trusts, business succession, property ownership, and income tax consequences can all be relevant even when no federal estate tax is expected.
+
+## 10. Don't assume changes will produce a larger refund
+
+Whenever tax laws change, it's tempting to focus on whether a particular provision will increase a refund or lower a tax bill. But tax returns don't operate one provision at a time.
+
+A taxpayer may benefit from a larger deduction in one area while experiencing a different result elsewhere. Income, filing status, dependents, business activity, investments, itemized deductions, credits, withholding, and estimated tax payments all interact to determine the final result.
+
+That's why the best time to understand the 2026 changes is before 2026 is over.
+
+A tax projection can help answer questions such as:
+
+- Are your federal income tax withholding and estimated payments still appropriate?
+- Will you benefit from itemizing deductions this year?
+- Are there charitable contributions or business expenses that should be addressed before December 31?
+- Do recent tax-law changes affect your business planning?
+- Are you eligible for deductions or credits you weren't expecting?
+- Has a change in income altered your eligibility for a tax benefit?
+
+## Planning now can make filing easier later
+
+Tax year 2026 includes both familiar inflation adjustments and more significant changes resulting from recent federal legislation. Some changes broaden deductions or preserve tax benefits that had been scheduled to expire. Others introduce new limitations or eliminate credits that were previously available.
+
+The important point is that tax planning and tax preparation are not the same thing.
+
+By the time your 2026 return is being prepared in early 2027, the opportunity to make many tax-planning decisions will have passed. Reviewing the rules now gives you time to understand how they apply to your situation and determine whether action is appropriate before year's end.
+
+If your income, family situation, investments, business activity, or financial circumstances have changed during the year, consider meeting with your tax advisor before year-end. A 2026 tax projection can help identify the changes that actually affect you and separate meaningful planning opportunities from tax-law changes that may have little impact on your return.
+
+Questions? [Contact our team](/contact). We can help.
+
