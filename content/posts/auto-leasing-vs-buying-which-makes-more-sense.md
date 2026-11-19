@@ -15,6 +15,12 @@ canonical_url: https://www.bblcpa.com/resources/auto-leasing-vs-buying-which-mak
 schema_markup: "FAQPage"
 answer_block: "Whether to lease or buy a car depends on business use, mileage, and how long you'll keep the vehicle. Purchased business vehicles can qualify for Section 179 expensing and larger upfront deductions, while leased vehicles offer smaller, steadier deductions and lower mileage flexibility, making the right choice dependent on your specific tax and driving situation."
 ---
+
+
+
+
+*By Brammer, Begnaud & Lattimore, CPAs — Accounting, tax and advisory firm in Port Arthur, serving clients in Jefferson County and throughout Southeast Texas.*
+
 If you've sat in a dealership finance office in Port Arthur or Beaumont and watched the salesperson slide a lease quote across the desk right after a purchase quote, you already know the pitch: lower payment, newer car every few years, no worries about resale. What they don't walk you through is what that decision does to your tax return, your cash flow, or your balance sheet if the vehicle is tied to a business. That's the piece we look at with clients every day, and it's usually the piece that actually decides the answer.
 
 There's no universal right answer between leasing and buying a car. There is a right answer for your situation, and it depends on how you use the vehicle, how you file your taxes, and how long you plan to keep it. Here's the framework we use with physicians, dentists, real estate agents, and small business owners across Southeast Texas when this question comes up.
