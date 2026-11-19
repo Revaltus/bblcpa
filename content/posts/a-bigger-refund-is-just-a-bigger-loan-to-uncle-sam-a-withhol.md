@@ -5,7 +5,7 @@ date: 2026-11-19
 content_type: blog
 author: "David L. Lattimore"
 excerpt: "A fat refund feels like a win, but it is your own money coming back after a year-long interest-free loan. Here is a three-step withholding checkup for the new tax law."
-image: couple-reviewing-tax-paperwork-kitchen-table.jpg
+image: bbl-2026-tax-changes.png
 image_alt: "A couple reviewing tax paperwork and a laptop at their kitchen table to check their withholding"
 tags: ["Tax withholding", "Tax planning", "Individual tax", "New tax law"]
 meta_title: "Adjust Tax Withholding After New Tax Law: 3-Step Check"
@@ -71,8 +71,6 @@ The estimator is only as good as your inputs. It does not know that you plan to 
 ## Step three: adjust your W-4, W-4R, or estimated payments
 
 Once you have a target, the fix depends on how you get paid. The mechanics are simple once you know which form controls your withholding.
-
-![A person filling out a tax withholding form at a desk with a calculator nearby](/content-assets/filling-out-w4-form-pen-calculator.jpg)
 
 | If you are... | What to adjust | Where |
 |---|---|---|
