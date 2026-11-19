@@ -16,6 +16,9 @@ canonical_url: https://www.bblcpa.com/resources/do-you-even-need-to-send-that-sa
 schema_markup: "FAQPage"
 answer_block: "A safe harbor 401(k) that uses a matching contribution must send employees an annual notice 30 to 90 days before the plan year, which is about December 1 for calendar-year plans. A plan that uses a 3% nonelective contribution no longer has to send that annual notice, and it can be adopted as late as 30 days before year end, or with a 4% contribution up to the end of the following plan year."
 ---
+
+*By Brammer, Begnaud & Lattimore, CPAs — Accounting, tax and advisory firm in Port Arthur, serving clients in Jefferson County and throughout Southeast Texas.*
+
 Every fall, owners of small practices in Port Arthur get the same nudge from a plan provider: send your safe harbor notice by December 1. So they scramble. Here is the part that rarely gets said out loud. If your plan uses a 3% nonelective contribution, there is no annual safe harbor notice to send at all. The deadline that matters moves somewhere else, and the design you pick decides which calendar you live on.
 
 This article walks through the safe harbor 401(k) notice requirement, who it still applies to, how the 3% and 4% nonelective options work, and what each design costs on a realistic payroll. One caution up front: your plan document controls. Rules like these have details and exceptions, so confirm the specifics with your plan provider or third-party administrator before you act on anything here.

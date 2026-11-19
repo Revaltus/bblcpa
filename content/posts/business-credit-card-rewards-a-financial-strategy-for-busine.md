@@ -15,6 +15,9 @@ canonical_url: https://www.bblcpa.com/resources/business-credit-card-rewards-a-f
 schema_markup: "FAQPage"
 answer_block: "Business credit card rewards earned through spending are generally not taxable income; they're treated as a rebate that reduces the cost of your purchases. The real strategy is matching a card's bonus categories to your actual spending patterns, paying the balance in full every cycle, and reconciling rewards against your books so redemptions and bonuses are recorded correctly at tax time."
 ---
+
+*By Brammer, Begnaud & Lattimore, CPAs — Accounting, tax and advisory firm in Port Arthur, serving clients in Jefferson County and throughout Southeast Texas.*
+
 A business credit card that racks up points is nice. A business credit card that's actually built around how your company spends money is a financial strategy. Too many Southeast Texas business owners pick a card because a banker pushed it, a magazine ranked it number one, or the sign-up bonus looked shiny. Then six months later they're carrying a balance on a card that pays 1% back on the fuel and equipment purchases that make up most of their spending, while the 3% dining bonus sits mostly unused. That's not a rewards strategy. That's a marketing win for the bank.
 
 Done right, a business credit card program does three things at once: it improves your short-term cash flow, it gives you a cleaner paper trail for tax season, and it quietly funds real savings on the expenses you were already going to make. Done wrong, it creates a bookkeeping headache and, occasionally, a tax question you didn't see coming.

@@ -15,6 +15,9 @@ canonical_url: https://www.bblcpa.com/resources/insuring-where-it-counts-avoid-o
 schema_markup: "FAQPage"
 answer_block: "How much insurance coverage you need depends on your net worth, income replacement needs, and what assets a lawsuit or loss could reach, not a fixed list of policy types. A useful needs analysis starts by matching liability limits and life or disability coverage to your actual financial exposure, then layering business-specific coverage like malpractice, E&O, or cyber liability on top based on your profession."
 ---
+
+*By Brammer, Begnaud & Lattimore, CPAs — Accounting, tax and advisory firm in Port Arthur, serving clients in Jefferson County and throughout Southeast Texas.*
+
 Insurance salespeople sell policies. CPAs look at balance sheets. That difference matters more than most people realize, because the question "how much insurance coverage do you need" doesn't have a universal answer. It has a number, and that number comes from your net worth, your cash flow, and what you'd actually lose if something went wrong. A physician in Port Arthur with $2 million in retirement assets and a $400,000 mortgage needs a different risk profile than a retiree living on Social Security and a pension. Buying the same umbrella policy or the same disability rider for both would leave one person over-insured and paying for coverage they'll never use, and the other dangerously exposed.
 
 That's the trap most insurance content falls into: generic checklists of "types of insurance" that treat every reader the same. This isn't that. It's a framework for figuring out where your actual exposure sits, so you stop paying premiums on risks that don't threaten you and start covering the ones that do.

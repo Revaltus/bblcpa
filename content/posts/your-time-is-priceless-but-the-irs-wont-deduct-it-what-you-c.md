@@ -15,6 +15,9 @@ canonical_url: https://www.bblcpa.com/resources/your-time-is-priceless-but-the-i
 schema_markup: "FAQPage"
 answer_block: "You can't deduct the value of your time when you volunteer, but unreimbursed out-of-pocket costs like mileage at 14 cents per mile, supplies, uniforms, and travel expenses are deductible if you itemize and the organization is an IRS-qualified 501(c)(3). Documentation, including a written acknowledgment for expenses of $250 or more, is required to claim them."
 ---
+
+*By Brammer, Begnaud & Lattimore, CPAs — Accounting, tax and advisory firm in Port Arthur, serving clients in Jefferson County and throughout Southeast Texas.*
+
 If you spent 40 hours this year running the concession stand at a Little League field, driving meals to homebound seniors through a Port Arthur church program, or serving on the board of a local nonprofit, the IRS thanks you for your service and gives you exactly zero dollars of deduction for your time. That surprises a lot of people. It also surprises people in the other direction: many volunteers assume none of their costs count, so they toss the gas receipts and never think about it again. Both assumptions are wrong, and the gap between them is where real tax savings sit.
 
 The rule is narrower than most taxpayers think, but it's also more generous than most taxpayers realize. Your labor isn't deductible. The money you spend out of pocket to do that labor, for a qualified 501(c)(3) organization, often is. Here's how to tell the difference and keep records that hold up if the IRS ever asks.

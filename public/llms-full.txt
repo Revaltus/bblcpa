@@ -1601,6 +1601,217 @@ Think you are too small to need a CPA firm? That is exactly when the right setup
 
 ## Resources
 
+### Why a Bigger Tax Refund Is Really a Loan to Uncle Sam, and How to Fix Your Withholding
+URL: /resources/a-bigger-refund-is-just-a-bigger-loan-to-uncle-sam-a-withhol
+
+Every February, somebody at the coffee counter announces their refund like they just hit the lottery. Nobody announces the other half of the story: they handed the IRS that money, interest-free, a little out of every paycheck for twelve months. A refund feels like a bonus. It is actually a loan you made without being asked, and the repayment shows up once a year with no interest.
+
+This year the question is louder than usual. The 2025 tax law changes (the One Big Beautiful Bill Act, signed in July 2025) added new deductions and raised old ones, and a lot of people want to know whether their refund will be bigger. Some will. But the better question is whether your withholding matches your real tax bill. Here is a simple three-step checkup to find out.
+
+## A refund is your own money coming home late
+
+Take a $3,120 refund. Divide it by 26 biweekly paychecks and you get $120 per check that went to the IRS instead of your household. If that money had stayed in your account, it could have paid down a credit card, padded an emergency fund, or covered a quarterly insurance premium without a scramble.
+
+The math is even sharper if you carry a balance. Over-withholding evenly across the year means the government holds an average of about $1,560 of your money. If you also carry a card balance at 22 percent APR, that idle cash costs you roughly $340 a year in interest you could have avoided. If you instead park the money in savings at 4 percent, you would have earned about $62. Either way, the IRS got the better end of the deal.
+
+The flip side matters too. Under-withhold and you owe in April, and you may owe an underpayment penalty on top. The goal is not a big refund or a big bill. The goal is a number close to zero, with a small cushion if that helps you sleep.
+
+## Why this filing season's refunds look different
+
+If your refund looks different this year, there is usually a mechanical reason. The new law changed what you can deduct on your 2025 return, but employers withheld most of 2025 paychecks using rules written before the law passed. Your payroll system could not know about deductions that did not exist yet, so it kept withholding at the old rate.
+
+That gap can push refunds up. Here are the changes most likely to move your numbers:
+
+- **Standard deduction.** For 2025 it is $15,750 for single filers and $31,500 for married couples filing jointly. For 2026 it rises to $16,100 and $32,200.
+- **Child tax credit.** It is now $2,200 per qualifying child.
+- **SALT cap.** The state and local tax deduction cap rose from $10,000 to $40,000 for 2025, with a phase-down for higher earners.
+- **Tips and overtime.** Qualifying tip income can be deducted up to $25,000. The overtime premium (the "half" in time-and-a-half) can be deducted up to $12,500, or $25,000 on a joint return.
+- **Seniors.** Filers 65 and older can claim an added $6,000 deduction each, subject to income limits that begin phasing out at $75,000 (single) and $150,000 (joint).
+
+The tips, overtime, and senior deductions run through 2028, so this is a multi-year planning issue, not a one-season blip. If you work overtime in the Port Arthur industrial corridor, our post on [how the overtime deduction works for workers and payroll](/resources/overtime-pay-in-the-industrial-corridor-what-the-new-overtim) covers which part of your pay actually qualifies.
+
+One caution: a bigger refund this year does not mean your withholding is right. It may only mean the old withholding was wrong in a new way.
+
+## Step one: compare last year's return to your paychecks
+
+Start with your most recent return and one recent pay stub. Pull out three numbers: your total tax, your total payments (withholding plus any estimates), and your refund or balance due.
+
+Then do a quick pace check. Multiply your year-to-date federal withholding by the number of pay periods left, add it up, and compare the projected total to last year's total tax. If you are a salaried physician or a plant supervisor, this takes ten minutes.
+
+Watch for the common triggers that make last year a poor guide:
+
+- A raise, a bonus, or a second job
+- A marriage, divorce, or new baby
+- A spouse who started or stopped working
+- Side income, rental income, or a new business
+- A new retirement distribution schedule
+
+If none of those happened and your refund or balance due was under about $500, your withholding was close. Move on to the new-law question. If your refund was $2,000 or more, you have found money to redirect.
+
+## Step two: run the numbers on the new rules
+
+This is where most people stall, because the rules above interact. A married couple with two kids, one earning overtime, one on a salary, gets a different answer than a retired couple living on IRA distributions and Social Security.
+
+The free [IRS Tax Withholding Estimator](https://www.irs.gov/individuals/tax-withholding-estimator) is a good place to begin. Have your last return, your latest pay stubs, and any 1099 or retirement income figures in front of you. It will tell you what to change on your Form W-4 and will ask about the newer deductions.
+
+The estimator is only as good as your inputs. It does not know that you plan to buy a rental property, that your practice has a lumpy fourth quarter, or that you are about to start taking required minimum distributions. That is where a CPA earns the coffee. Our [personal tax prep and planning](/services/personal-income-tax) clients get this projection as part of year-round support, which means the number changes when your life does, not once a year in March.
+
+## Step three: adjust your W-4, W-4R, or estimated payments
+
+Once you have a target, the fix depends on how you get paid. The mechanics are simple once you know which form controls your withholding.
+
+| If you are... | What to adjust | Where |
+|---|---|---|
+| Salaried or hourly | Extra withholding, credits, deductions | Form W-4 given to your employer |
+| Retired, taking IRA or pension distributions | Withholding percentage on each payment | Form W-4R to the plan custodian |
+| Collecting Social Security | Withholding at 7, 10, 12, or 22 percent | Form W-4V |
+| Self-employed or owning a practice | Quarterly estimates | Form 1040-ES payments |
+
+For employees, the [IRS Form W-4 page](https://www.irs.gov/forms-pubs/about-form-w-4) explains each step. The ones people use most are Step 3 (credits), Step 4(b) (deductions beyond the standard), and Step 4(c) (a flat extra dollar amount per paycheck). If you are over-withheld by $2,400 with 24 paychecks left, a $100 reduction per check is the math. Under-withheld by the same amount? Put $100 in Step 4(c).
+
+For business owners, the target is the safe harbor. You generally avoid the underpayment penalty if you pay at least 90 percent of this year's tax or 100 percent of last year's tax (110 percent if your adjusted gross income was over $150,000). Estimates are due April 15, June 15, September 15, and January 15. A dentist who buys equipment in October, or a real estate agent who closes three big deals in June, can change the right quarterly amount quickly. That is why we revisit it mid-year instead of copying last year's numbers forward.
+
+Retirees have an edge here, because withholding from a distribution counts as if it were paid evenly through the year, even if you take the distribution in December. Our page on [tax planning for retirees](/industries/retirees) covers how that can fix a shortfall late in the year.
+
+## Texas helps, but only if the federal piece is right
+
+Texas has no personal income tax, which is a real advantage for anyone filing from Port Arthur, Beaumont, or Orange. The [Texas Comptroller](https://comptroller.texas.gov/taxes/) lists the taxes the state does collect, such as sales and franchise taxes, but none of them land on a paycheck.
+
+That means your federal return is the whole income-tax story. There is no state refund to offset a federal surprise and no state balance due to muddy the picture. A well-tuned federal withholding number is the entire game, which makes the checkup faster and the payoff cleaner.
+
+## Common Questions
+
+**Will my tax refund be bigger in 2026?**
+
+For many filers, yes, because the new deductions apply to 2025 income while most 2025 withholding was calculated under the old rules. Your result still depends on your income, filing status, and which deductions you qualify for. A bigger refund means over-withholding, so use it as a prompt to adjust your W-4.
+
+**Why is my tax refund different this year?**
+
+Usually one of three things changed: the tax law (standard deduction, child credit, new deductions), your income (raise, overtime, side work), or your withholding (new job, new W-4). Compare this year's total tax to last year's total tax on the return. The gap tells you which of the three drove the change.
+
+**How do I check my W-4 withholding?**
+
+Gather your latest pay stub and last year's return, then enter them into the IRS Tax Withholding Estimator. It will recommend changes to your Form W-4. Recheck after any life event, such as marriage, a new baby, a second job, or retirement. Even without a change, a once-a-year check keeps surprises small.
+
+## Get a withholding number you can trust
+
+A refund should be a rounding error, not a savings plan. If you want a second set of eyes on your W-4, your estimated payments, or your retirement withholding, we will run the projection with you and set a target that fits your cash flow. As a fixed monthly fee client, you get year-round tax support with no billing surprises, so a mid-year checkup is just part of the service. [Contact us](/contact) and we will help you stop lending money to Uncle Sam.
+
+---
+
+
+### Overtime pay in Port Arthur: how the new deduction works for workers and payroll
+URL: /resources/overtime-pay-in-the-industrial-corridor-what-the-new-overtim
+
+Turnaround season in Port Arthur produces some of the biggest paychecks of the year. A pipefitter working 12-hour days for six weeks watches overtime stack up fast, and the new federal overtime deduction sounds like it should make all of that money tax free. It does not. Only the premium portion of overtime qualifies, and whether a worker can claim it cleanly depends a lot on how the employer coded the pay.
+
+This post walks through the rules as the [IRS describes them](https://www.irs.gov/newsroom/one-big-beautiful-bill-act-tax-deductions-for-working-americans-and-seniors), with Southeast Texas numbers, for the workers who earn the overtime and the employers who run payroll. Tax guidance on these deductions is still being refined, so treat the details below as a snapshot and confirm anything that affects your return before you file.
+
+## Why a turnaround paycheck does not become tax free
+
+The deduction is for "qualified overtime compensation," and it runs for tax years 2025 through 2028. Three points trip people up.
+
+First, it is a deduction, not an exclusion. Your overtime still shows up in your wages, and the deduction reduces your taxable income on your Form 1040. You can claim it whether you itemize or take the standard deduction.
+
+Second, it only covers the overtime your employer is required to pay under the federal Fair Labor Standards Act. That means hours over 40 in a workweek, paid at one and a half times your regular rate. Of that pay, only the extra half counts. The "straight time" portion of an overtime hour is ordinary wages.
+
+Third, payroll taxes do not change. Social Security and Medicare tax still apply to every dollar of overtime. The deduction affects federal income tax only. Texas has no state income tax, so for Port Arthur households the federal return is the whole story.
+
+## A worked example with real turnaround numbers
+
+Take a pipefitter earning $32 an hour. During a six-week turnaround, he works 12-hour days, six days a week. That is 72 hours a week, or 32 overtime hours each week, for 192 overtime hours total.
+
+| Pay component | Hours | Rate | Amount | Qualifies for deduction? |
+|---|---|---|---|---|
+| Regular hours | 240 | $32 | $7,680 | No |
+| Straight-time portion of overtime | 192 | $32 | $6,144 | No |
+| Overtime premium (the extra half) | 192 | $16 | $3,072 | Yes |
+| Total pay | | | $16,896 | $3,072 deductible |
+
+At time and a half, the premium is always one-third of the overtime pay. His overtime paid $9,216, and $3,072 of it qualifies. If he sits in the 22 percent federal bracket, that deduction saves him roughly $676 in income tax. Real money, but a long way from "no tax on overtime."
+
+Now add a wrinkle common on industrial job sites. Suppose the union agreement or contractor policy pays double time on Sundays. At $32 an hour, that is $64. Only the FLSA-required premium of $16 qualifies. The other $16 per hour is a contractual bonus the law does not require, so it stays out of the deduction. The same goes for daily overtime after eight hours when the week stays under 40.
+
+Salaried employees who are exempt from overtime rules, such as many supervisors, do not have qualified overtime at all, however many hours they work.
+
+## Limits and income phase-outs that trim the deduction
+
+The deduction has a ceiling and an income test.
+
+- **Annual cap:** up to $12,500 per return, or $25,000 for joint filers.
+- **Phase-out:** the cap shrinks by $100 for every $1,000 of modified adjusted gross income above $150,000 ($300,000 for joint filers). A single filer at $200,000 sees the cap fall from $12,500 to $7,500.
+- **Valid Social Security number:** required, and married couples must file jointly to claim it.
+
+Most hourly industrial workers will not hit the cap. At a $16 premium, you would need about 780 overtime hours in a year to reach $12,500. The phase-out matters more for two-income households where one spouse has a high salary, say a physician married to a plant operator who works heavy overtime. In that case the household income, not the overtime itself, decides how much of the deduction survives.
+
+## Tips follow similar rules with a different cap
+
+Port Arthur's restaurants, hotels, and casino-adjacent hospitality jobs generate tipped income, and the companion deduction for qualified tips works on a similar model.
+
+- It runs for tax years 2025 through 2028.
+- The cap is $25,000 per return.
+- The same income phase-out applies, starting at $150,000 ($300,000 joint).
+- Tips must be voluntary, not a negotiated or mandatory charge.
+- The worker's occupation must be one that customarily and regularly received tips, based on a list from the Treasury Department.
+
+Tips remain subject to Social Security and Medicare tax, and they must still be reported to the employer. That is where employer payroll reporting becomes the deciding factor. A server who reports cash tips accurately and whose credit card tips flow through payroll has a paper trail. A server whose tips were handled informally has a harder time proving what the deduction should be.
+
+## Payroll records that make claiming easier
+
+For 2025, the IRS gave employers transition relief, so the new deductions did not require a brand-new W-2 reporting format right away. The IRS has signaled that more detailed reporting is coming, so employers should assume that separate tracking will matter going forward. Check the final W-2 instructions each year rather than assuming last year's setup still works.
+
+Meanwhile, employees still need numbers to put on a return. Here is what a clean payroll file looks like.
+
+1. **Separate pay codes.** Regular wages, FLSA overtime, and contractual extras like double time or shift bonuses should each have their own code. Mixing them forces guesswork later.
+2. **Overtime premium tracked or easily calculated.** If the system records overtime pay at time and a half, the premium is one-third of it. If it records anything different, document the method.
+3. **Tips by type.** Cash tips reported by employees, credit card tips, and any tip pooling should be distinguishable in payroll.
+4. **Occupation on file.** Tip eligibility depends on the job, so a clear job title for each tipped employee helps.
+5. **Correct Social Security numbers.** A mismatch can hold up an otherwise valid claim.
+6. **Exempt versus nonexempt status.** Misclassified employees create both wage-law and tax-reporting problems.
+
+The [IRS employment tax page for small businesses](https://www.irs.gov/businesses/small-businesses-self-employed/employment-taxes) is the best starting point for the filing side. Small employers beyond the refineries feel this too. A veterinary clinic paying vet techs overtime during a busy season, or a dental office with hourly hygienists and assistants, has the same recordkeeping questions as a contractor with 40 pipefitters.
+
+## How BBL handles the payroll side for employers
+
+Our [payroll service](/services/outsourced-accounting/payroll) covers scheduled payroll processing, employee setup and salary changes, time tracking, payroll tax filings, and W-2 and 1099 processing, all through a secure online platform where you can see your numbers in real time. When reporting rules shift, the pay codes get updated as part of the service rather than as a surprise project.
+
+The fee is a fixed monthly amount bundled with your other services, so a rule change does not turn into a billing surprise at filing time. Year-round tax support means a payroll manager can ask, in July, whether double-time Sundays should be coded separately, instead of discovering the problem in January.
+
+Timing matters too. Payroll vendors set cutoffs ahead of year-end so corrections do not collide with W-2 deadlines, which is covered in our post on [why your payroll company's early-December deadline is doing you a favor](/resources/why-your-payroll-companys-early-december-deadline-is-actuall). Clean overtime and tip coding is easiest to fix before that cutoff, not after.
+
+## What workers should gather before filing
+
+If you earn overtime or tips, pull these together before your appointment or your software session:
+
+- Your final pay stub of the year, which often shows year-to-date overtime hours and pay.
+- Your W-2, plus any statement your employer provides breaking out overtime or tips.
+- Your contract or pay policy showing how overtime is calculated.
+- Records of any cash tips you reported to your employer.
+- A valid Social Security number for you and your spouse.
+
+If your employer's records do not separate the premium portion, a reasonable method based on your pay stubs can often fill the gap, and that is where a CPA earns the fee. Our [personal income tax service](/services/personal-income-tax) includes a personalized deduction review, so the overtime premium is calculated and documented rather than estimated.
+
+## Common Questions
+
+**Is overtime pay now tax free?**
+
+No. The deduction applies only to the premium portion, the extra half of time and a half, and only for federal income tax. Social Security and Medicare taxes still apply. The maximum is $12,500 per return ($25,000 joint), reduced for modified adjusted gross income above $150,000 ($300,000 joint), for tax years 2025 through 2028.
+
+**Does the overtime deduction lower my Texas state taxes?**
+
+Texas has no personal income tax, so there is no state return to benefit. The savings come entirely from your federal return. Your employer's payroll taxes, including Social Security and Medicare, are unchanged, so your take-home pay per check does not automatically rise unless you adjust your withholding.
+
+**What if my employer's W-2 does not show my overtime premium?**
+
+Start with your final pay stub and your employer's payroll records, which usually show overtime hours and pay. The IRS gave employers transition relief for 2025, so separate W-2 reporting was not always required. A CPA can calculate the premium from those records and document the method in case questions come up later.
+
+## Get your payroll ready before the next filing season
+
+Whether you run payroll for a contractor, a restaurant, or a clinic, or you simply want to know how much of your turnaround overtime counts, a short conversation now beats a scramble in the spring. [Contact our Port Arthur team](/contact) to review your pay codes, your records, and your fixed monthly fee options.
+
+---
+
+
 ### Why Your Payroll Company's Early-December Deadline Is Doing You a Favor
 URL: /resources/why-your-payroll-companys-early-december-deadline-is-actuall
 

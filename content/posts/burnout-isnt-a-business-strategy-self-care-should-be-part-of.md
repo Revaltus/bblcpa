@@ -15,6 +15,9 @@ canonical_url: https://www.bblcpa.com/resources/burnout-isnt-a-business-strategy
 schema_markup: "FAQPage"
 answer_block: "Self-care for business owners is a financial safeguard, not an indulgence, because exhaustion and decision fatigue directly increase the likelihood of costly mistakes. Owners who build in real rest, delegate routine financial tasks, and track fewer but more meaningful numbers make clearer decisions and protect long-term profitability."
 ---
+
+*By Brammer, Begnaud & Lattimore, CPAs — Accounting, tax and advisory firm in Port Arthur, serving clients in Jefferson County and throughout Southeast Texas.*
+
 Running a business along the Port Arthur industrial corridor means salt air, refinery traffic, and a to-do list that never fully clears. Plenty of the owners we work with treat exhaustion like a badge of honor: answering invoices at 11 p.m., skipping the dentist appointment, canceling the weekend at Pleasure Island because payroll is due Friday. That pattern feels responsible. It isn't. Every missed vacation and sleep-deprived Tuesday chips away at the one asset that actually keeps a business solvent: the owner's judgment. A CPA sees the fallout in the numbers before it ever shows up in a hospital bill, a missed filing deadline, or a pricing mistake that costs real money. Self-care for business owners isn't a wellness trend tacked onto a growth plan. It's a risk-management decision, and it belongs in the same conversation as your entity structure and your tax strategy.
 
 ## Exhaustion shows up on your books before it shows up in your health

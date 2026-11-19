@@ -15,6 +15,9 @@ canonical_url: https://www.bblcpa.com/resources/how-to-turn-a-second-home-into-a
 schema_markup: "FAQPage"
 answer_block: "Under IRS rules, if you rent your second home 14 days or fewer per year, none of that rental income is taxable. Rent it more than 14 days, and it becomes a rental property where income is taxable but expenses and depreciation become deductible, with limits based on your personal-use days."
 ---
+
+*By Brammer, Begnaud & Lattimore, CPAs — Accounting, tax and advisory firm in Port Arthur, serving clients in Jefferson County and throughout Southeast Texas.*
+
 A lake house on Toledo Bend or a condo in Galveston sounds like a lifestyle upgrade, and it is one. But the IRS doesn't care about your view. It cares about how many nights you slept there versus how many nights you rented it out, and that one number decides whether your second home behaves like a tax shelter or turns into a rental business with its own set of rules. Get the split right and you can write off mortgage interest, property tax, and even a chunk of your rental losses. Get it wrong and you could lose deductions you assumed were automatic.
 
 This matters more right now because mortgage rates have kept a lot of would-be second-home buyers on the sidelines, and the ones who do buy are increasingly renting the property out part of the year to offset the payment. That single decision, how many days you rent versus how many days you or your family use it, changes your tax picture completely.
