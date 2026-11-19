@@ -1,5 +1,5 @@
 ---
-title: "Why a Bigger Tax Refund Is Really a Loan to Uncle Sam, and How to Fix Your Withholding"
+title: "2026 Federal tax changes: What to know before you file"
 slug: a-bigger-refund-is-just-a-bigger-loan-to-uncle-sam-a-withhol
 date: 2026-11-19
 content_type: blog
