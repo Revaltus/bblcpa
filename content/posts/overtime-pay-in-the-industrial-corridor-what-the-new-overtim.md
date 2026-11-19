@@ -16,6 +16,9 @@ canonical_url: https://www.bblcpa.com/resources/overtime-pay-in-the-industrial-c
 schema_markup: "FAQPage"
 answer_block: "The new overtime deduction is not a full tax exemption. Only the premium portion of FLSA overtime, the extra half in time and a half, can be deducted from federal income tax, up to $12,500 per return ($25,000 joint) with phase-outs above $150,000 ($300,000 joint) of income, for tax years 2025 through 2028. Social Security and Medicare taxes still apply, so accurate payroll records are what let workers claim the deduction."
 ---
+
+*By Brammer, Begnaud & Lattimore, CPAs — Accounting, tax and advisory firm in Port Arthur, serving clients in Jefferson County and throughout Southeast Texas.*
+
 Turnaround season in Port Arthur produces some of the biggest paychecks of the year. A pipefitter working 12-hour days for six weeks watches overtime stack up fast, and the new federal overtime deduction sounds like it should make all of that money tax free. It does not. Only the premium portion of overtime qualifies, and whether a worker can claim it cleanly depends a lot on how the employer coded the pay.
 
 This post walks through the rules as the [IRS describes them](https://www.irs.gov/newsroom/one-big-beautiful-bill-act-tax-deductions-for-working-americans-and-seniors), with Southeast Texas numbers, for the workers who earn the overtime and the employers who run payroll. Tax guidance on these deductions is still being refined, so treat the details below as a snapshot and confirm anything that affects your return before you file.
