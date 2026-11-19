@@ -15,6 +15,9 @@ canonical_url: https://www.bblcpa.com/resources/long-term-care-how-you-can-finan
 schema_markup: "FAQPage"
 answer_block: "Long-term care planning costs are best managed years in advance through a mix of long-term care insurance, VA Aid and Attendance benefits for eligible veterans, and dedicated self-funded savings, since Medicare typically does not cover extended custodial care. Waiting until care is needed usually limits insurance options and delays VA benefit eligibility."
 ---
+
+*By Brammer, Begnaud & Lattimore, CPAs — Accounting, tax and advisory firm in Port Arthur, serving clients in Jefferson County and throughout Southeast Texas.*
+
 Nobody plans a coffee meeting to talk about nursing homes. But if you're 55 or older, or you've got parents who are, long-term care is probably already sitting in the back of your mind, right next to "did I save enough for retirement?" Here's the uncomfortable math: a private room in a Texas nursing facility can run well over $8,000 a month, and home health aides aren't cheap either. Medicare generally does not cover extended custodial care. That gap between what you'll need and what's automatically covered is exactly where a financial plan has to do the heavy lifting, years before anyone dials a facility's admissions office.
 
 We treat long-term care the same way we treat any other financial risk: something to fund deliberately, not something to figure out in a crisis. That means blending insurance, veterans benefits, and personal savings into a plan that matches your specific balance sheet, not a generic checklist pulled from a magazine.
