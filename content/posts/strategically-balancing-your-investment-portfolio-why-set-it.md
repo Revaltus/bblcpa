@@ -15,6 +15,9 @@ canonical_url: https://www.bblcpa.com/resources/strategically-balancing-your-inv
 schema_markup: "BlogPosting"
 answer_block: "A balanced investment portfolio requires ongoing rebalancing, not a one-time setup, because market movement causes asset allocation to drift from your target risk level over time. Tax-efficient rebalancing, using retirement account trades, new contributions, and tax-loss harvesting, protects returns that would otherwise be lost to unnecessary capital gains taxes."
 ---
+
+*By Brammer, Begnaud & Lattimore, CPAs — Accounting, tax and advisory firm in Port Arthur, serving clients in Jefferson County and throughout Southeast Texas.*
+
 Here's a question worth asking at your next portfolio review: when did you last check whether your allocation still matches your goals? If the honest answer is "not since I opened the account," you're not alone, but you're also probably leaving money on the table. Markets move, life changes, and tax law shifts every year. A portfolio built with the right balance in 2020 can look nothing like the right balance today, even if you never placed a single trade.
 
 That's the trap of "set it and forget it." It sounds disciplined. In practice, it just means your risk exposure is drifting on autopilot, usually in the direction of whatever asset class has been winning lately. For physicians, real estate investors, and retirees living off a portfolio in Southeast Texas, that drift has real consequences: bigger swings than you signed up for, missed tax opportunities, and sometimes a much rockier retirement than the one you planned.
