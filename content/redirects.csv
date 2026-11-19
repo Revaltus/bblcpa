@@ -17,3 +17,4 @@ old_url,new_url,status_code,reason
 /what-we-do/business-management-services,/services/business-management-services,301,Nested service URLs
 /our-team,/who-we-are/meet-our-team,301,Nested via nav editor
 /why-bbl,/who-we-are/why-choose-bbl,301,Nested via nav editor
+/resources/a-bigger-refund-is-just-a-bigger-loan-to-uncle-sam-a-withhol,/resources/2026-federal-tax-changes,301,Relocated via AI
