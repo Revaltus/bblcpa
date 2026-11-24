@@ -1601,6 +1601,114 @@ Think you are too small to need a CPA firm? That is exactly when the right setup
 
 ## Resources
 
+### The December Compliance Calendar: Map Your Practice's Year Ahead Before January Arrives
+URL: /resources/the-december-compliance-calendar-map-your-businesss-year-ahe
+
+Most physicians in Port Arthur can recite a patient's last A1C from memory but not the date their malpractice policy renews. That is not a character flaw. Medicine fills your head with the things that matter in the exam room, and the paperwork dates that keep the practice running get left to sticky notes and good intentions. The trouble is that a missed renewal, a lease that rolled over without a conversation, or a lapsed registration costs real money and real stress, usually in the middle of a busy clinic week.
+
+December is the cure. Patient schedules tend to thin out around the holidays, and you are already thinking about the year ahead. A few focused hours now can turn a pile of scattered deadlines into one business compliance calendar that tells you what is due, what is renewing, and what deserves a second look before the clock starts.
+
+## Why December is the right month to build a business compliance calendar
+
+A compliance calendar is simply a single list of every date that can cost your practice money or privileges if it slips. Insurance renewals, lease and contract terms, license and registration dates, payroll filings, and state and local filings all belong on it. The point is not to create more work. The point is to see the whole year at once, so you decide things on your schedule instead of reacting to somebody else's notice.
+
+December works because it sits right before the busiest filing stretch. January brings payroll reports and a fourth-quarter estimated tax payment. Spring brings Texas franchise tax and property tax paperwork. If you map those now, nothing arrives as a surprise. The [SBA's guidance on managing your business](https://www.sba.gov/business-guide/manage-your-business) makes the same basic point: owners who track their obligations in one place spend less time scrambling and more time on the work they trained for.
+
+## Review insurance before the renewal notice does the talking
+
+Renewal notices have a way of arriving with a new premium and a short fuse. If you review coverage 60 to 90 days ahead, you can ask questions and compare options while you still have leverage. Wait until the week of renewal and the easiest choice is to sign what is in front of you.
+
+For a physician practice, the review list is specific:
+
+- **Malpractice coverage.** Confirm whether your policy is claims-made or occurrence-based, check the limits against your current patient volume and procedures, and ask what tail coverage would cost if you or an associate left the practice.
+- **Property and business interruption.** Port Arthur sits on the Gulf Coast, so windstorm and flood coverage deserve a direct question: if a storm closed your office for six weeks, would the policy cover payroll and rent during that time?
+- **Cyber and general liability.** Patient records are a target, and many policies now carry conditions about security practices. Read them before a claim, not after.
+- **Equipment and key-person coverage.** An imaging unit or in-office lab is a large asset. Make sure the schedule of equipment matches what is actually in the building.
+
+While you are at it, ask your agent for quotes from at least two other carriers. Even if you stay put, a competing quote is a fair way to test the price. If you want a framework for deciding how much coverage is enough, our post on [how much insurance coverage you need](/resources/insuring-where-it-counts-avoid-over-insuring-in-the-wrong-pl) ties limits to net worth and cash flow instead of a generic policy checklist.
+
+## Read the leases and contracts that renew on their own
+
+Auto-renewal clauses are quiet. Nobody calls you to say your office lease will renew for another three years unless you send written notice 90 or 120 days before it ends. By the time you remember, the window has closed and the rent escalator has kicked in.
+
+Say a three-physician group leases 4,200 square feet and the lease includes a 4 percent annual escalator with a 120-day notice requirement. Missing that window does not just lock in the rent. It removes your chance to ask for a lower escalator, a tenant improvement allowance, or a shorter term while you still have a reason to walk away. A calendar reminder 150 days out is cheap insurance.
+
+Gather these documents in December and note the end date, notice deadline, and renewal terms for each:
+
+- Office or clinic lease
+- Equipment leases and service agreements, such as imaging, lab, and copier contracts
+- Billing company, EHR, and answering service agreements
+- Staffing, locum, and medical director agreements
+- Software subscriptions that bill annually
+
+That last item is where money hides. If you suspect you are paying for tools no one uses, our guide to [subscription creep](/resources/take-back-control-of-subscription-creep) walks through a quick audit.
+
+## Collect license and credential dates in one place
+
+Physicians carry more renewal dates than almost any other small business owner, and each one has its own agency, its own cycle, and its own consequences. A practical list looks like this:
+
+- **Texas Medical Board license.** Renewal runs on a two-year cycle, and the state expects 48 hours of continuing medical education in that period, including ethics hours. Know where you are in the cycle now, not in the last month.
+- **DEA registration.** Practitioner registrations run three years. Lapse and you cannot prescribe controlled substances until it is sorted out.
+- **CLIA certificate.** If your office runs any in-house lab testing, the certificate has its own two-year renewal.
+- **Payer credentialing and Medicare revalidation.** Revalidation generally comes around every five years, and a missed request can interrupt reimbursement. Commercial payers run their own re-credentialing cycles, often every two to three years.
+- **Hospital privileges and facility permits.** Each has its own date, and they rarely line up.
+
+For the business side, the [SBA's licenses and permits page](https://www.sba.gov/business-guide/launch-your-business/apply-licenses-permits) is a handy starting point for what a practice may need at the federal, state, and local levels. Confirm local requirements with the city or county, since those vary.
+
+## Put state and federal filings on the same page
+
+This is the part most physicians hand to their CPA and then forget about, which is fine, as long as someone is tracking it. Here is a sample of what a practice calendar typically carries.
+
+| Item | Typical timing | Why it matters |
+|---|---|---|
+| Payroll W-2s and Form 941 for Q4 | January 31 | Late filings bring penalties, and corrections are slow. |
+| Fourth-quarter estimated tax payment | January 15 | Owners of pass-through practices pay personally. |
+| Texas franchise tax report and Public Information Report | May 15 | Required for most PLLCs and professional associations, even when no tax is due. |
+| Business personal property rendition | April 15 | Filed with the county appraisal district for equipment and furniture. Confirm your local rules. |
+| Retirement plan contributions and notices | Varies by plan | Deadlines depend on plan type and tax filing extensions. |
+| Estimated tax payments | April 15, June 15, September 15 | Missing one can trigger underpayment penalties. |
+
+A few notes on that table. Texas does not have a separate annual report for most entities in the way some states do. The franchise tax report and its Public Information Report do that job, and the Secretary of State and Comptroller can forfeit an entity's right to operate if reports go unfiled. Your payroll provider's year-end cutoff matters too, and [why that early December deadline works in your favor](/resources/why-your-payroll-companys-early-december-deadline-is-actuall) is worth five minutes before you reach for the holiday punch.
+
+If you want to double-check federal dates, the [IRS small business and self-employed page](https://www.irs.gov/businesses/small-businesses-self-employed) lists current filing and payment requirements.
+
+## Turn the list into a calendar your office will use
+
+A list in a drawer does nothing. A calendar that sends reminders to the right person does. Here is a simple way to set it up in one afternoon.
+
+1. **Pick one home.** A shared digital calendar that your practice manager and your CPA can both see works better than a spreadsheet one person owns.
+2. **Enter two dates for every item.** One is the deadline itself. The other is the decision date, which is the day you need to start reviewing, usually 60 to 120 days earlier.
+3. **Assign an owner.** Every entry gets a name. If it belongs to everyone, it belongs to no one.
+4. **Attach the paperwork.** Link the policy, the lease, or the registration confirmation right to the entry so no one hunts for it later.
+5. **Schedule a quarterly check.** Fifteen minutes in March, June, September, and December keeps the calendar honest.
+
+That last step is where an outside set of eyes pays off. Our fixed monthly fee bundles year-round tax support, so a question about a lease, a new hire, or a quarterly payment does not turn into a billable hour. Through our secure online platform, your books and your deadlines sit in the same view, and the [business management services](/services/business-management-services) side adds CFO-level guidance, such as deciding whether an equipment lease beats a purchase, at a fraction of what a full-time finance hire would cost. Physicians in Port Arthur can see how this fits a clinic on our [physicians page](/industries/physicians).
+
+## Common Questions
+
+**What should a business compliance calendar for a physician practice include?**
+
+Start with insurance renewals, lease and contract end dates with their notice windows, medical license, DEA, and CLIA dates, payer re-credentialing, payroll filings, estimated tax payments, and the Texas franchise tax report. Add a decision date 60 to 120 days before each renewal, so you have time to compare options instead of simply accepting the terms.
+
+**When should I review my business insurance before renewal?**
+
+Begin 60 to 90 days ahead. That gives you time to request quotes from other carriers, ask about coverage gaps like windstorm, flood, or business interruption, and negotiate. Reviewing in the final week usually means accepting whatever the carrier offers, since there is no time left to compare anything.
+
+**Do I need to file an annual state report in Texas?**
+
+Most Texas entities do not file a standalone annual report. Instead, the franchise tax report and Public Information Report are due each May 15, and they are required for most PLLCs and professional associations even when no tax is owed. Missing them can put your entity's good standing at risk.
+
+**Can my CPA manage the compliance calendar for me?**
+
+Yes, for the tax and financial dates. Our team tracks payroll, estimated tax, and state filings year-round, and we can help you place insurance, lease, and license dates on the same calendar. The renewals themselves still need your signature, but you will know what is coming long before it arrives.
+
+## Start the year with dates you already know
+
+If the idea of building this calendar yourself makes your eye twitch, that is a normal reaction after a full clinic day. [Contact our Port Arthur team](/contact) and we will help you set up a year-ahead compliance calendar built around your practice, your insurance, your leases, and your filings, so January starts with a plan instead of a pile.
+
+---
+
+
 ### Why a Bigger Tax Refund Is Really a Loan to Uncle Sam, and How to Fix Your Withholding
 URL: /resources/a-bigger-refund-is-just-a-bigger-loan-to-uncle-sam-a-withhol
 
