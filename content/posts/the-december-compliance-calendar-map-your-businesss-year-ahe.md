@@ -5,10 +5,10 @@ date: 2026-11-24
 content_type: blog
 author: "David L. Lattimore"
 excerpt: "A few hours in December can turn scattered renewals, leases, license dates, and Texas filings into one calendar. Here is how Port Arthur business owners can build it."
-image: physician-planning-year-ahead-calendar.jpg
+image: adobestock-704433577.png
 image_alt: "Business owner at a desk reviewing a wall calendar and paperwork to plan the year ahead"
 tags: ["compliance calendar", "small business", "year-end planning", "Texas filings"]
-categories: [c-91afb9, c-4de509]
+categories: [c-042deb]
 meta_title: "Business Compliance Calendar for Owners | BBL CPAs"
 meta_description: "Build a business compliance calendar in December: insurance, leases, licenses, and Texas filings in one simple plan for your Southeast Texas business."
 target_keyword: "business compliance calendar"
@@ -43,8 +43,6 @@ While you are at it, ask your agent for quotes from at least two other carriers.
 ## Read the leases and contracts that renew on their own
 
 Auto-renewal clauses are quiet. Nobody calls you to say your office lease will renew for another three years unless you send written notice 90 or 120 days before it ends. By the time you remember, the window has closed and the rent escalator has kicked in.
-
-![Two professionals reviewing a lease agreement at a desk](/content-assets/reviewing-office-lease-agreement.jpg)
 
 Say a three-owner company leases 4,200 square feet and the lease includes a 4 percent annual escalator with a 120-day notice requirement. Missing that window does not just lock in the rent. It removes your chance to ask for a lower escalator, a tenant improvement allowance, or a shorter term while you still have a reason to walk away. A calendar reminder 150 days out is cheap insurance.
 
@@ -119,4 +117,4 @@ Yes, for the tax and financial dates. Our team tracks payroll, estimated tax, an
 
 ## Start the year with dates you already know
 
-If the idea of building this calendar yourself makes your eye twitch, that is a normal reaction after a full day running the business. [Contact our Port Arthur team](/contact) and we will help you set up a year-ahead compliance calendar built around your business, your insurance, your leases, and your filings, so January starts with a plan instead of a pile.
+If the idea of building this calendar yourself makes your eye twitch, that is a normal reaction after a full day running the business. [Contact our team](/contact) and we will help you set up a year-ahead compliance calendar built around your business, your insurance, your leases, and your filings, so January starts with a plan instead of a pile.
