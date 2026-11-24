@@ -17,6 +17,9 @@ canonical_url: https://www.bblcpa.com/resources/the-december-compliance-calendar
 schema_markup: "FAQPage"
 answer_block: "A business compliance calendar is one list of every insurance renewal, lease notice window, license and registration date, payroll filing, and Texas franchise tax deadline. Build it in December, add a decision date 60 to 120 days before each renewal, and assign an owner to every entry so nothing lapses or auto-renews unnoticed."
 ---
+
+*By Brammer, Begnaud & Lattimore, CPAs — Accounting, tax and advisory firm in Port Arthur, serving clients in Jefferson County and throughout Southeast Texas.*
+
 Most business owners in Port Arthur can recite their best customer's last order from memory but not the date their liability policy renews. That is not a character flaw. Running a business fills your head with the things that matter day to day, and the paperwork dates that keep the business running get left to sticky notes and good intentions. The trouble is that a missed renewal, a lease that rolled over without a conversation, or a lapsed registration costs real money and real stress, usually in the middle of a busy work week.
 
 December is the cure. Things tend to slow down around the holidays, and you are already thinking about the year ahead. A few focused hours now can turn a pile of scattered deadlines into one business compliance calendar that tells you what is due, what is renewing, and what deserves a second look before the clock starts.
