@@ -17,6 +17,9 @@ canonical_url: https://www.bblcpa.com/resources/close-the-books-before-the-year-
 schema_markup: "FAQPage"
 answer_block: "A year-end bookkeeping checklist for taxes starts with reconciling every bank, credit card, customer payment, and processor account, then separating personal spending from business spending and fixing miscategorized transactions before December 31. Clean books mean fewer follow-up questions, fewer billable hours, and more room for tax planning while there is still time to act."
 ---
+
+*By Brammer, Begnaud & Lattimore, CPAs — Accounting, tax and advisory firm in Port Arthur, serving clients in Jefferson County and throughout Southeast Texas.*
+
 Most business owners we meet in Southeast Texas are not behind on their taxes. They are behind on their books. The business checking account has not been reconciled since August, the credit card holds a mix of office supplies and a weekend in Galveston, and a $14,000 piece of equipment is sitting in "Supplies." None of that is a crisis in October. By the second week of January, it is a scramble, and somebody has to pay for the untangling.
 
 The cheapest fix is a Q4 clean-up. Reconcile every account, separate personal spending from business spending, and correct miscategorized transactions before December 31. This post is a year-end bookkeeping checklist for taxes, written for business owners who would rather spend January running the business than chasing bank statements.
