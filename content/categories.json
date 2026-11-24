@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "c-91afb9",
+      "name": "Physicians",
+      "slug": "physicians"
+    },
+    {
+      "id": "c-de522b",
+      "name": "Dentists",
+      "slug": "dentists"
+    },
+    {
+      "id": "c-4de509",
+      "name": "Small Business / General",
+      "slug": "small-business-general"
+    },
+    {
+      "id": "c-df17ff",
+      "name": "Veterinarians",
+      "slug": "veterinarians"
+    },
+    {
+      "id": "c-b505ca",
+      "name": "Real Estate Professionals",
+      "slug": "real-estate-professionals"
+    },
+    {
+      "id": "c-eb7c35",
+      "name": "Retirees",
+      "slug": "retirees"
+    },
+    {
+      "id": "c-0c9267",
+      "name": "High Net Worth Individuals",
+      "slug": "high-net-worth-individuals"
+    },
+    {
+      "id": "c-042deb",
+      "name": "Insights",
+      "slug": "insights"
+    }
+  ]
+}
