@@ -5,7 +5,7 @@ date: 2026-11-24
 content_type: blog
 author: "David L. Lattimore"
 excerpt: "Reconciling accounts, separating personal spending, and fixing miscategorized transactions before December 31 is the cheapest way for Southeast Texas business owners to cut tax prep costs and skip the January scramble."
-image: physician-reviewing-practice-finances-at-desk.jpg
+image: adobestock-349728660.png
 image_alt: "A business owner at a desk reviewing financial statements and a laptop at year-end"
 tags: ["year-end bookkeeping", "small business accounting", "tax prep", "reconciliation"]
 categories: [c-91afb9, c-042deb]
@@ -34,8 +34,6 @@ At BBL, our clients pay one fixed monthly fee with no billing surprises, so a me
 ## Reconcile every account before December 31
 
 Reconciliation means matching what your books say to what the bank, card issuer, or processor says. If the two do not agree, something is missing, duplicated, or wrong. Do it for every account, not only the main one.
-
-![Bank statements and a laptop on a desk during account reconciliation](/content-assets/reconciling-bank-statements-on-laptop.jpg)
 
 For most businesses, the list looks like this:
 
