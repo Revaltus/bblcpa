@@ -5,7 +5,7 @@ date: 2026-11-24
 content_type: blog
 author: "David L. Lattimore"
 excerpt: "Reconciling accounts, separating personal spending, and fixing miscategorized transactions before December 31 is the cheapest way for Southeast Texas business owners to cut tax prep costs and skip the January scramble."
-image: physician-reviewing-practice-finances-at-desk.jpg
+image: business-reviewing-business-finances-at-desk.jpg
 image_alt: "A business owner at a desk reviewing financial statements and a laptop at year-end"
 tags: ["year-end bookkeeping", "small business accounting", "tax prep", "reconciliation"]
 categories: [c-91afb9, c-042deb]
@@ -19,7 +19,7 @@ answer_block: "A year-end bookkeeping checklist for taxes starts with reconcilin
 ---
 Most business owners we meet in Southeast Texas are not behind on their taxes. They are behind on their books. The business checking account has not been reconciled since August, the credit card holds a mix of office supplies and a weekend in Galveston, and a $14,000 piece of equipment is sitting in "Supplies." None of that is a crisis in October. By the second week of January, it is a scramble, and somebody has to pay for the untangling.
 
-The cheapest fix is a Q4 clean-up. Reconcile every account, separate personal spending from practice spending, and correct miscategorized transactions before December 31. This post is a year-end bookkeeping checklist for taxes, written for business owners who would rather spend January running the business than chasing bank statements.
+The cheapest fix is a Q4 clean-up. Reconcile every account, separate personal spending from business spending, and correct miscategorized transactions before December 31. This post is a year-end bookkeeping checklist for taxes, written for business owners who would rather spend January running the business than chasing bank statements.
 
 ## Why messy books raise your tax prep bill
 
@@ -40,7 +40,7 @@ Reconciliation means matching what your books say to what the bank, card issuer,
 For most businesses, the list looks like this:
 
 - **Operating and payroll checking accounts.** Match each month's ending balance to the statement. Investigate any difference, even a small one.
-- **Credit cards.** Business cards, and any personal card that touched practice expenses. Make sure card payments are not counted twice, once as a payment and once as the underlying charges.
+- **Credit cards.** Business cards, and any personal card that touched business expenses. Make sure card payments are not counted twice, once as a payment and once as the underlying charges.
 - **Customer and payer deposits.** Some customers and payers send one lump deposit covering many invoices. Tie each deposit to its remittance details so revenue is recorded at the gross amount, not the net.
 - **Card processor deposits.** Customer payments made by card arrive net of processing fees. Those fees are an expense. If your books only show the net deposit, you are understating both revenue and expenses.
 - **Loans and equipment financing.** Principal is not an expense. Interest is. Confirm the loan balance on your books matches the lender's year-end statement.
