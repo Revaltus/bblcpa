@@ -35,6 +35,11 @@
       "id": "c-0c9267",
       "name": "High Net Worth Individuals",
       "slug": "high-net-worth-individuals"
+    },
+    {
+      "id": "c-042deb",
+      "name": "Insights",
+      "slug": "insights"
     }
   ]
 }
