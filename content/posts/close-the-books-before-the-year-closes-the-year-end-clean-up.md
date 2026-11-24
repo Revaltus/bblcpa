@@ -5,7 +5,7 @@ date: 2026-11-24
 content_type: blog
 author: "David L. Lattimore"
 excerpt: "Reconciling accounts, separating personal spending, and fixing miscategorized transactions before December 31 is the cheapest way for Southeast Texas business owners to cut tax prep costs and skip the January scramble."
-image: business-reviewing-business-finances-at-desk.jpg
+image: physician-reviewing-practice-finances-at-desk.jpg
 image_alt: "A business owner at a desk reviewing financial statements and a laptop at year-end"
 tags: ["year-end bookkeeping", "small business accounting", "tax prep", "reconciliation"]
 categories: [c-91afb9, c-042deb]
